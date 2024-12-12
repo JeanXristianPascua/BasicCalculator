@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jex\\OneDrive\\Desktop\\BasicCalculator\\",
+  "WorkspaceRootPath": "C:\\Users\\Jex\\OneDrive\\Desktop\\basic-calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43211FF6-B66B-4D2B-8BBD-B01CD2CF3A49}|BasicCalculator\\BasicCalculator.csproj|c:\\users\\jex\\onedrive\\desktop\\basiccalculator\\basiccalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43211FF6-B66B-4D2B-8BBD-B01CD2CF3A49}|BasicCalculator\\BasicCalculator.csproj|c:\\users\\jex\\onedrive\\desktop\\basic-calculator\\basiccalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43211FF6-B66B-4D2B-8BBD-B01CD2CF3A49}|BasicCalculator\\BasicCalculator.csproj|solutionrelative:basiccalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jex\\OneDrive\\Desktop\\BasicCalculator\\BasicCalculator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jex\\OneDrive\\Desktop\\basic-calculator\\BasicCalculator\\Program.cs",
               "RelativeDocumentMoniker": "BasicCalculator\\Program.cs",
-              "ToolTip": "C:\\Users\\Jex\\OneDrive\\Desktop\\BasicCalculator\\BasicCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Jex\\OneDrive\\Desktop\\basic-calculator\\BasicCalculator\\Program.cs",
               "RelativeToolTip": "BasicCalculator\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAiwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
